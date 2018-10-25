@@ -1,0 +1,7 @@
+In a few lines, CI is:
+
+Build automation - every commit/push to an scm repo automatically triggers a new build (anything in the master branch is deployable)
+Test automation - tests are evaluated as integral part of the build process (that's old news, right?)
+SCM integration - primarily to facilitate build automation, but also to be able to report on issues, versions, milestones, ...
+Project management integration - Basecamp, Campfire, Acunote and other PM tools (people, tasks, schedules, ...)
+Project Dashboard - everything is out in the open (generally without any read access restrictions, making it available to all interested parties)
